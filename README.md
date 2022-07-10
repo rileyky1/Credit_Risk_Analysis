@@ -59,5 +59,8 @@ In this analysis I have used six machine learning models on existing loan data i
 - The recall score is 91.0% for high risk loans compared to 94.0% for low risk loans
 
 
+## Summary
+
+Each one of these models has a very low precision score, indicating that none of them are reliable for predicting a high risk loan. The recall scores improvement with the Combination Sampling model, Balanced Random Forest model, and Easy Ensemble Classifier. With the exception of the Cluster Centroids model, the accuracy scores improved with each model. Easy Ensamble Classifier has the highes accuracy score at 92.5%. However, I do not beleive these are good enough numbers to justify relying on these models to make decisions on new loans coming in for the business. 
 
 
