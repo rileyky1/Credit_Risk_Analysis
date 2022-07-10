@@ -7,36 +7,36 @@ In this analysis I have used six machine learning models on existing loan data i
 ## Test Results
 
 ### Model: Oversampling with RandomOverSampler
-![RandomOverSampler](RandomOverSampler.png)
-![RandomOverSampler2](RandomOverSampler2.png)
+![RandomOverSampler](Resources/RandomOverSampler.png)
+![RandomOverSampler2](Resources/RandomOverSampler2.png)
 
 - The percentage of predictions that are correct for this model (balanced accuracy score) 
 
 
 ### Model: SMOTE Oversampling
-![SMOTEoversampling](SMOTEoversampling.png)
-![SMOTEoversampling2](SMOTEoversampling2.png)
+![SMOTEoversampling](Resources/SMOTEoversampling.png)
+![SMOTEoversampling2](Resources/SMOTEoversampling2.png)
 
 
 
 ### Model: Undersampling with Cluster Centroids
-![ClusterCentroidsUndersampling](ClusterCentroidsUndersampling.png)
-![ClusterCentroidsUndersampling2](ClusterCentroidsUndersampling2.png)
+![ClusterCentroidsUndersampling](Resources/ClusterCentroidsUndersampling.png)
+![ClusterCentroidsUndersampling2](Resources/ClusterCentroidsUndersampling2.png)
 
 
 
 ### Model: Combination (Over and Under) Sampling with SMOTEENN
-![SMOTEENNoverunder](SMOTEENNoverunder.png)
-![SMOTEENNoverunder2](SMOTEENNoverunder2.png)
+![SMOTEENNoverunder](Resources/SMOTEENNoverunder.png)
+![SMOTEENNoverunder2](Resources/SMOTEENNoverunder2.png)
 
 
 
 ### Model: Balanced RandomForest Classifier
-![BRFC](BRFC.png)
-![BRFC2](BRFC2.png)
+![BRFC](Resources/BRFC.png)
+![BRFC2](Resources/BRFC2.png)
 
 
 
 ### Model: Easy Ensemble AdaBoost Classifier
-![EasyEnsambler](EasyEnsambler.png)
-![EasyEnsambler2](EasyEnsambler2.png)
+![EasyEnsambler](Resources/EasyEnsambler.png)
+![EasyEnsambler2](Resources/EasyEnsambler2.png)
